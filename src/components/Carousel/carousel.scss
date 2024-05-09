@@ -61,7 +61,9 @@
 .container-arrows {
 position:relative;
 top:50%;
-width:100%;
+margin-left:auto;
+margin-right:auto;
+width:94%;
 display:flex;
 flex-direction: row;
 justify-content: space-between;
@@ -71,9 +73,9 @@ align-items: center;
 .left {
     display: none;
     text-align: center;
-    width:2%;
+    width:30px;
     position:absolute;
-    left:2%;
+    left:4%;
     font-size:40px;
     font-weight: 700;
     color: white;
@@ -83,9 +85,9 @@ align-items: center;
 .right {
     display: none;
     text-align: center;
-    width:2%;
+    width:30px;
     position:absolute;
-    right:3%;
+    right:4%;
     font-size:40px;
     font-weight: 700;
     color: white;
