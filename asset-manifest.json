@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lmarti-web-development/static/css/main.8ef417ab.css",
+    "main.css": "/lmarti-web-development/static/css/main.747b712f.css",
     "main.js": "/lmarti-web-development/static/js/main.418cce6b.js",
     "static/js/453.6307373a.chunk.js": "/lmarti-web-development/static/js/453.6307373a.chunk.js",
     "static/media/cv-lmarti-2024.pdf": "/lmarti-web-development/static/media/cv-lmarti-2024.194d88541329b7c255a5.pdf",
@@ -11,12 +11,12 @@
     "static/media/photo-moi.webp": "/lmarti-web-development/static/media/photo-moi.91ef79723d60e8dfc21a.webp",
     "index.html": "/lmarti-web-development/index.html",
     "static/media/chevron.webp": "/lmarti-web-development/static/media/chevron.a38c37cf785688867be6.webp",
-    "main.8ef417ab.css.map": "/lmarti-web-development/static/css/main.8ef417ab.css.map",
+    "main.747b712f.css.map": "/lmarti-web-development/static/css/main.747b712f.css.map",
     "main.418cce6b.js.map": "/lmarti-web-development/static/js/main.418cce6b.js.map",
     "453.6307373a.chunk.js.map": "/lmarti-web-development/static/js/453.6307373a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ef417ab.css",
+    "static/css/main.747b712f.css",
     "static/js/main.418cce6b.js"
   ]
 }
