@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lmarti-web-development/static/css/main.747b712f.css",
+    "main.css": "/lmarti-web-development/static/css/main.101b91b7.css",
     "main.js": "/lmarti-web-development/static/js/main.418cce6b.js",
     "static/js/453.6307373a.chunk.js": "/lmarti-web-development/static/js/453.6307373a.chunk.js",
     "static/media/cv-lmarti-2024.pdf": "/lmarti-web-development/static/media/cv-lmarti-2024.194d88541329b7c255a5.pdf",
     "static/media/Oranienbaum.ttf": "/lmarti-web-development/static/media/Oranienbaum.e5625604e9200634b240.ttf",
+    "static/media/Boheme Floral.ttf": "/lmarti-web-development/static/media/Boheme Floral.0345ab604f426031d363.ttf",
     "static/media/Cinzel-Regular.otf": "/lmarti-web-development/static/media/Cinzel-Regular.f91baf6fe825a2549798.otf",
     "static/media/britain-logo.webp": "/lmarti-web-development/static/media/britain-logo.fcb245e4236a9c1de19e.webp",
-    "static/media/Champignon.otf": "/lmarti-web-development/static/media/Champignon.969551ffe8efcc094557.otf",
     "static/media/photo-moi.webp": "/lmarti-web-development/static/media/photo-moi.91ef79723d60e8dfc21a.webp",
     "index.html": "/lmarti-web-development/index.html",
     "static/media/chevron.webp": "/lmarti-web-development/static/media/chevron.a38c37cf785688867be6.webp",
-    "main.747b712f.css.map": "/lmarti-web-development/static/css/main.747b712f.css.map",
+    "main.101b91b7.css.map": "/lmarti-web-development/static/css/main.101b91b7.css.map",
     "main.418cce6b.js.map": "/lmarti-web-development/static/js/main.418cce6b.js.map",
     "453.6307373a.chunk.js.map": "/lmarti-web-development/static/js/453.6307373a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.747b712f.css",
+    "static/css/main.101b91b7.css",
     "static/js/main.418cce6b.js"
   ]
 }
